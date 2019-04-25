@@ -4,6 +4,7 @@ CMS和中间件指纹库
 ## Md5指纹: 964, 正则指纹: 825
 
 ### mysql> select cmsname,count(*) from cmsprint group by cmsname;
+```
 +---------------+----------+
 | cmsname       | count(*) |
 +---------------+----------+
@@ -279,3 +280,4 @@ CMS和中间件指纹库
 | confluence    |        5 |
 | frontpage     |        1 |
 +---------------+----------+
+```
