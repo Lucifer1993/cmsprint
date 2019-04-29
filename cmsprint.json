@@ -8587,6 +8587,60 @@
             "remark": "小猪cms"
         },
         {
+            "cmsname": "pigcms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/pigcms_static/css/login.css",
+            "keyword": "-webkit-animation:zoomInDown",
+            "type": "webcms",
+            "remark": "小猪cms"
+        },
+        {
+            "cmsname": "pigcms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/pigcms_static/css/responsive.css",
+            "keyword": "thead.tableFloatingHeaderOriginal",
+            "type": "webcms",
+            "remark": "小猪cms"
+        },
+        {
+            "cmsname": "pigcms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/pigcms_static/plugins/css/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css",
+            "keyword": ".checkbox-danger",
+            "type": "webcms",
+            "remark": "小猪cms"
+        },
+        {
+            "cmsname": "pigcms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/pigcms_static/third-part/sweetalert/sweetalert.css",
+            "keyword": ".sweet-alert",
+            "type": "webcms",
+            "remark": "小猪cms"
+        },
+        {
+            "cmsname": "pigcms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/pigcms_static/cashier/commonfunc.js",
+            "keyword": "confirmSwal",
+            "type": "webcms",
+            "remark": "小猪cms"
+        },
+        {
+            "cmsname": "pigcms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/pigcms_static/third-part/sweetalert2/es6-promise.min.js",
+            "keyword": "_setScheduler",
+            "type": "webcms",
+            "remark": "小猪cms"
+        },
+        {
             "cmsname": "fengcms",
             "staticurl": "/admin/image/long_bg.png",
             "checksum": "480d4f11843eea195785d5f595008fcb",
@@ -13175,6 +13229,204 @@
             "keyword": "Microsoft FrontPage",
             "type": "webcms",
             "remark": "Microsoft Frontpage，是微软公司出品的一款网页制作入门级软件"
+        },
+        {
+            "cmsname": "lotus-domino",
+            "staticurl": "/icons/ecblank.gif",
+            "checksum": "09cb0048f6a36c977c45fbf1f8a75e76",
+            "homeurl": "/",
+            "keyword": "_DominoForm",
+            "type": "webcms",
+            "remark": "IBM Lotus Domino系统办公软件"
+        },
+        {
+            "cmsname": "lotus-domino",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/domcfg.nsf/cssLogin?ReadForm",
+            "keyword": "font-family",
+            "type": "webcms",
+            "remark": "IBM Lotus Domino系统办公软件"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/cms/dwr/engine.js",
+            "keyword": "dwr.engine._execute",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/datacenter/dwr/interface/SecurityAuthenticationController.js",
+            "keyword": "SecurityAuthenticationController",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/datacenter/dwr/interface/UserController.js",
+            "keyword": "UserController",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/datacenter/dwr/engine.js",
+            "keyword": "dwr.engine._execute",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/cms/ueditor/downAttach.do",
+            "keyword": "ui-state-error",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/cms/thirdparty/jquery/superfish/superfish.js",
+            "keyword": "hideSuperfishUl",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/cms/res/jeecms/js/admin.js",
+            "keyword": "Cms.loadRightFrame",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/cms/res/common/js/cmsUeditor.js",
+            "keyword": "initViewContent",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "lezhixing",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/cms/res/common/js/cmsVedio.js",
+            "keyword": "initVedioPlayer",
+            "type": "webcms",
+            "remark": "乐知行软件—智慧校园整体解决方案提供商,产品包括数字校园、四叶草教育互动平台、区域教育云"
+        },
+        {
+            "cmsname": "baigocms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/static/lib/baigoAccordion/baigoAccordion.min.js",
+            "keyword": "baigoAccordion",
+            "type": "webcms",
+            "remark": "百高内容管理系统baigoCMS"
+        },
+        {
+            "cmsname": "baigocms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/static/lib/baigoSubmit/baigoSubmit.min.js",
+            "keyword": "fn.baigoSubmit",
+            "type": "webcms",
+            "remark": "百高内容管理系统baigoCMS"
+        },
+        {
+            "cmsname": "baigocms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/static/lib/baigoValidator/baigoValidator.min.js",
+            "keyword": "fn.baigoValidator",
+            "type": "webcms",
+            "remark": "百高内容管理系统baigoCMS"
+        },
+        {
+            "cmsname": "baigocms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/static/lib/baigoAccordion/baigoAccordion.min.css",
+            "keyword": "bg-panel-accordion",
+            "type": "webcms",
+            "remark": "百高内容管理系统baigoCMS"
+        },
+        {
+            "cmsname": "baigocms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/static/lib/baigoSubmit/baigoSubmit.css",
+            "keyword": "bg-submit-box",
+            "type": "webcms",
+            "remark": "百高内容管理系统baigoCMS"
+        },
+        {
+            "cmsname": "baigocms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/static/lib/baigoValidator/baigoValidator.css",
+            "keyword": "baigoValidator",
+            "type": "webcms",
+            "remark": "百高内容管理系统baigoCMS"
+        },
+        {
+            "cmsname": "baigocms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/static/css/common.css",
+            "keyword": "bg-panel-heading",
+            "type": "webcms",
+            "remark": "百高内容管理系统baigoCMS"
+        },
+        {
+            "cmsname": "baigocms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/static/console/default/css/console.css",
+            "keyword": "bg-navbar-btn",
+            "type": "webcms",
+            "remark": "百高内容管理系统baigoCMS"
+        },
+        {
+            "cmsname": "zcms",
+            "staticurl": "/favicon.ico",
+            "checksum": "a48789a90c6729245c8e68b7a2e109e4",
+            "homeurl": "/",
+            "keyword": "zcmsbg",
+            "type": "webcms",
+            "remark": "泽元内容管理系统cms"
+        },
+        {
+            "cmsname": "zcms",
+            "staticurl": "/images/logo.jpg",
+            "checksum": "4c73a12f490fb9c692c60eb5d65335ee",
+            "homeurl": "/templets/02/css/index.css",
+            "keyword": ".imgplayWrap",
+            "type": "webcms",
+            "remark": "泽元内容管理系统cms"
+        },
+        {
+            "cmsname": "zcms",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/css/landing.css",
+            "keyword": "dropdown-submenu",
+            "type": "webcms",
+            "remark": "泽元内容管理系统cms"
         }
     ]
 }
