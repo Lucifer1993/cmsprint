@@ -1409,7 +1409,7 @@
             "staticurl": "",
             "checksum": "",
             "homeurl": "/source/plugin/myapp/discuz_plugin_myapp.xml",
-            "keyword": "discuz",
+            "keyword": "Discuz",
             "type": "webcms",
             "remark": "Discuz! Board通用社区论坛系统"
         },
@@ -1436,7 +1436,7 @@
             "staticurl": "",
             "checksum": "",
             "homeurl": "/uc_server/view/default/admin_frame_main.htm",
-            "keyword": "discuz",
+            "keyword": "home_stats",
             "type": "webcms",
             "remark": "Discuz! Board通用社区论坛系统"
         },
@@ -1445,7 +1445,7 @@
             "staticurl": "/favicon.ico",
             "checksum": "c028c4822428e83a358c60a93ef65381",
             "homeurl": "/uc_server/view/default/admin_frame_main.htm",
-            "keyword": "discuz",
+            "keyword": "INPUTBORDERDARKCOLOR",
             "type": "webcms",
             "remark": "Discuz! Board通用社区论坛系统"
         },
@@ -4205,7 +4205,7 @@
         },
         {
             "cmsname": "yidacms",
-            "staticurl": "images/yi.png",
+            "staticurl": "/images/yi.png",
             "checksum": "efa2a854ad9897ec4c6c182e47045247",
             "homeurl": "",
             "keyword": "",
@@ -4214,7 +4214,7 @@
         },
         {
             "cmsname": "yidacms",
-            "staticurl": "images/yi.png",
+            "staticurl": "/images/yi.png",
             "checksum": "b5579af7bdd4d85bbf3e6aa8affed658",
             "homeurl": "",
             "keyword": "",
@@ -6718,7 +6718,7 @@
             "cmsname": "zblog",
             "staticurl": "/zb_system/image/admin/ok.png",
             "checksum": "8bfed48756f192ed7afe6eaa4799aae4",
-            "homeurl": "http://43.242.32.129:8080/readme.txt",
+            "homeurl": "/readme.txt",
             "keyword": "Z-Blog",
             "type": "webcms",
             "remark": "Z-Blog博客建站系统"
@@ -13427,6 +13427,132 @@
             "keyword": "dropdown-submenu",
             "type": "webcms",
             "remark": "泽元内容管理系统cms"
+        },
+        {
+            "cmsname": "wordpress-akismet",
+            "staticurl": "/wp-content/plugins/akismet/_inc/img/logo-full-2x.png",
+            "checksum": "214d14de7050941cf8602d369881c0f7",
+            "homeurl": "/wp-content/plugins/akismet/readme.txt",
+            "keyword": "Akismet",
+            "type": "webcms",
+            "remark": "WordPress Akismet最流行的反垃圾留言插件"
+        },
+        {
+            "cmsname": "wordpress-akismet",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/akismet/_inc/akismet.css",
+            "keyword": ".akismet-status",
+            "type": "webcms",
+            "remark": "WordPress Akismet最流行的反垃圾留言插件"
+        },
+        {
+            "cmsname": "wordpress-akismet",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/akismet/_inc/akismet.js",
+            "keyword": "WPAkismet",
+            "type": "webcms",
+            "remark": "WordPress Akismet最流行的反垃圾留言插件"
+        },
+        {
+            "cmsname": "wordpress-akismet",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/akismet/akismet.php",
+            "keyword": "not much I can do when called directly",
+            "type": "webcms",
+            "remark": "WordPress Akismet最流行的反垃圾留言插件"
+        },
+        {
+            "cmsname": "wordpress-akismet",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/akismet/_inc/form.js",
+            "keyword": "ak_js",
+            "type": "webcms",
+            "remark": "WordPress Akismet最流行的反垃圾留言插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-form-7-widget/readme.txt",
+            "keyword": "CustomWPNinjas",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-forms/easy-contact-forms-forms.1.4.9.js",
+            "keyword": "ufoFormsConfig.phonenumberre",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-forms/easy-contact-forms-objects.xml",
+            "keyword": "CustomFormEntryStatistics",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-forms/easy-contact-forms-roles.xml",
+            "keyword": "TeamMember",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-forms/easy-contact-forms.env.1.4.9.js",
+            "keyword": "ufoForms.docReady",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-forms/forms/styles/formsstd/css/std.css",
+            "keyword": "ufo-cell-center",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-forms/readme.txt",
+            "keyword": "Easy Contact Forms",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-forms/js/json.js",
+            "keyword": "v.constructor.prototype",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
+        },
+        {
+            "cmsname": "wordpress-contactform",
+            "staticurl": "",
+            "checksum": "",
+            "homeurl": "/wp-content/plugins/easy-contact-forms/styles/pointer.css",
+            "keyword": "table.ufo-pointer-table",
+            "type": "webcms",
+            "remark": "WordPress 最受欢迎的wordpress表单插件"
         }
     ]
 }
